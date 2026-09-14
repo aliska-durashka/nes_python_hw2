@@ -5,5 +5,5 @@ def leap(year):
 
 print(leap(2000))
 print(leap(2026))
-print(leap(1980))
-print(leap(1776))
+print(leap(2011))
+
